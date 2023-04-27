@@ -1,5 +1,7 @@
 # Hydroxychloroquine international controversy in francophone Titter
 
+[![DOI](https://zenodo.org/badge/630534023.svg)](https://zenodo.org/badge/latestdoi/630534023)
+
 In this repository we provide dataset used and produced in:
 
 > **XXX**
