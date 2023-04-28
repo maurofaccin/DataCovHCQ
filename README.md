@@ -15,7 +15,7 @@ You may refer to this dataset as:
 
 > `DataCovHCQ`
 > Mauro Faccin
-> [Zenodo (2023)](https://zenodo.org/record/7870120)
+> [Zenodo (2023)](https://doi.org/10.5281/zenodo.7870123)
 
 ## Datasets
 
