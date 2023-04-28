@@ -4,9 +4,9 @@
 
 In this repository we provide dataset used and produced in:
 
-> **XXX**
+> **Temporal and geographic analysis of the Hydroxychloroquine controversy in the French Twittosphere**
 > *Faccin, Emilien, Gargiulo*
-> [PLOS ONE, 17(8) p.1-19 (2022)](https://doi.org/10.1371/journal.pone.0271157).
+> [arXiv:2304.14075 (2023)](https://doi.org/10.48550/arXiv.2304.14075).
 
 The cited article contains a detailed description of the datasets' construction processes.
 If you use this in your project, please add a reference to the above article.
