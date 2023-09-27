@@ -1,4 +1,4 @@
-# Hydroxychloroquine international controversy in francophone Titter
+# Hydroxychloroquine international controversy in francophone Twitter
 
 [![DOI](https://zenodo.org/badge/630534023.svg)](https://zenodo.org/badge/latestdoi/630534023)
 
